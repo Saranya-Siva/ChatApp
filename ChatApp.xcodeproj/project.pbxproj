@@ -23,6 +23,7 @@
 		EEE0FCA524AC5D9600D0C3F7 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE0FCA424AC5D9600D0C3F7 /* RegisterViewController.swift */; };
 		EEE0FCA724AC5DB100D0C3F7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE0FCA624AC5DB100D0C3F7 /* LoginViewController.swift */; };
 		EEE0FCA924AC5DC000D0C3F7 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE0FCA824AC5DC000D0C3F7 /* ChatViewController.swift */; };
+		EEE0FCAB24AC664400D0C3F7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EEE0FCAA24AC664300D0C3F7 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		EEE0FCA424AC5D9600D0C3F7 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		EEE0FCA624AC5DB100D0C3F7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		EEE0FCA824AC5DC000D0C3F7 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		EEE0FCAA24AC664300D0C3F7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
